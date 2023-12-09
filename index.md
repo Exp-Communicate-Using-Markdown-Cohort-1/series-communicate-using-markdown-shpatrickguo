@@ -12,3 +12,9 @@ Steps from [Communicating with Markdown](https://github.com/Exp-Communicate-Usin
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+
+## Step 4
+
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
